@@ -2,4 +2,4 @@
 
 Repositorio teste para aprender a usar o git
 
-Estou aprendendo bem com esse curso
+Estou aprendendo bem com esse curso e gostando
