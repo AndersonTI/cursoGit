@@ -3,3 +3,5 @@
 Repositorio teste para aprender a usar o git
 
 Estou aprendendo bem com esse curso e gostando
+
+Usando repositorio gitHub e BitBucket
